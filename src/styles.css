@@ -1,0 +1,7 @@
+html, body {
+    background-color: peachpuff;
+}
+.logo{
+    max-width: 200px;
+    min-width: 120px;
+}
